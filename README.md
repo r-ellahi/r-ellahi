@@ -1,6 +1,9 @@
-### Welcome to my GitHub 👋
+### ✨ Welcome to my GitHub ✨
 
-An analytical and forward thinking, aspiring data engineer with a deep understanding of database fundamentals. Proficient in practical applications of programming languages such as Python and SQL. A self-starter who's actively curious about data, possesses a quick-learning ability, and is determined to expand her knowledge of technology.
+<i>Hey, I'm Rumaanah 👋 - an analytical and forward thinking, aspiring data engineer with a deep understanding of database fundamentals. Proficient in practical applications of programming languages such as Python and SQL. A self-starter who's actively curious about data, possesses a quick-learning ability, and is determined to expand her knowledge of technology.</i>
+
+ <img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="200" height="200" />
+
 <!--
 **r-ellahi/r-ellahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
