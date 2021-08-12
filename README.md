@@ -1,4 +1,4 @@
-### Hi there,  👋
+### Welcome to my GitHub 👋
 
 An analytical and forward thinking, aspiring data engineer with a deep understanding of database fundamentals. Proficient in practical applications of programming languages such as Python and SQL. A self-starter who's actively curious about data, possesses a quick-learning ability, and is determined to expand her knowledge of technology.
 <!--
