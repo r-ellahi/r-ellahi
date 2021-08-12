@@ -10,7 +10,7 @@
  - Sharing Updates on LinkedIn 
 
 
-![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ellahi)
+
 
 <b> 💻 Languages and Tools: </b>
 
