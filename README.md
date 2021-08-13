@@ -8,14 +8,12 @@
  <b> 📫 How To Reach Me: </b>
  
 <a href="https://www.linkedin.com/in/rumaanah/" rel="nofollow"> <img align="left" alt="Rumaanah's LinkedIN" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+ 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=" width="400" height="300" style="max-width:100%;">
 
 
 <b> 💻 Languages and Tools: </b>
 
  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=" width="400" height="300" style="max-width:100%;">
