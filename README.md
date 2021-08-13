@@ -18,4 +18,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=highcontrast&show_icons=true" width="400" height="300" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=" width="400" height="300" style="max-width:100%;">
