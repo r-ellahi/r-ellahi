@@ -7,9 +7,12 @@
  
  ## 📫 Connect with me:
 <a href="https://www.linkedin.com/in/rumaanah/" rel="nofollow"> <img align="left" alt="Rumaanah's LinkedIN" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+<br />
 
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=" width="350" height="250" style="max-width:100%;">
+## My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=&show_icons=true" width="350" height="250" style="max-width:100%;">
 
 
 ## 💻 Languages and Tools: 
