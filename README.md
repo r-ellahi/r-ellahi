@@ -12,12 +12,11 @@
 > Website: [~ coming soon ~](https://www.linkedin.com/in/rumaanah/)  
 > 
 >  Email: <rumaanahellahi@gmail.com>  
-
-<br />
+>   
 
 
 ## My GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=&show_icons=true" width="350" height="250" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=&show_icons=true" width="400" height="300" style="max-width:100%;">
 
 
 ## 💻 Languages and Tools: 
