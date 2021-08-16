@@ -6,15 +6,17 @@
 <img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="150" height="150"/>  
 
 
- ### 📫 Connect with me:
+ ## 📫 Connect with me:
 > LinkedIn: [Rumaanah Ellahi](https://www.linkedin.com/in/rumaanah/) 
 >  
 > Website: [~ coming soon ~](https://www.linkedin.com/in/rumaanah/)  
 > 
 >  Email: <rumaanahellahi@gmail.com>  
 >  
-### 💻 Languages and Tools: 
+## 💻 Languages and Tools: 
 
  <img src="https://img.icons8.com/color/38/000000/python--v1.png"/><img src="https://img.icons8.com/color/38/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/fluency/38/000000/docker.png"/> <img src="https://img.icons8.com/ios-glyphs/38/000000/github.png"/> <img src="https://img.icons8.com/color/38/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/38/000000/visual-studio-code-2019.png"/>
+ 
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=&show_icons=true" width="400" height="300" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=r-ellahi&theme=&show_icons=true">
