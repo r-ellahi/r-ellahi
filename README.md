@@ -1,7 +1,7 @@
 <h1 align="center"> ✨ Welcome to my GitHub ✨ </h1>
 
 
-<p><i>Hey, I'm <b>Rumaanah</b> 👋 - an analytical and forward thinking, aspiring data engineer with a deep understanding of database fundamentals, proficient in practical applications of programming languages such as Python and SQL. A self-starter who's actively curious about data, possesses a quick-learning ability, and is determined to expand her knowledge of technology.</i></p>
+<p><i>Hey, I'm <b>Rumaanah</b> 👋 - An analytical and forward thinking, aspiring data engineer with a deep understanding of database fundamentals, proficient in practical applications such as Python, SQL and OS level virtualisation. Experienced with analysing complex data sets, object-oriented programming, Linux/Shell scripting, and agile methodologies.</i></p>
  
 <img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="150" height="150"/>  
 
