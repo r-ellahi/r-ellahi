@@ -2,8 +2,7 @@
 
 
 <p><i>Hey, I'm <b>Rumaanah</b> 👋 - An analytical and forward thinking, aspiring data engineer with a deep understanding of database fundamentals, proficient in practical applications such as Python, SQL and OS level virtualisation. Check out my repositories!</i></p>
- 
-<br>
+
 
  ## 📫 Connect with me:
 > LinkedIn: [Rumaanah Ellahi](https://www.linkedin.com/in/rumaanah/) 
