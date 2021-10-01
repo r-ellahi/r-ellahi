@@ -1,7 +1,7 @@
 <h1 align="center"> ✨ Welcome to my GitHub ✨ </h1>
 
 
-<p><i>Hey, I'm <b>Rumaanah</b> 👋 - An analytical and forward thinking, aspiring software engineer with a deep understanding of database fundamentals, proficient in practical applications such as Python, SQL and OS level virtualisation. Check out my projects so far!</i></p>
+<p><i>Hey, I'm <b>Rumaanah</b> 👋 - An analytical and forward thinking, aspiring software engineer with a deep understanding of database fundamentals, proficient in practical applications such as Python, SQL and OS level virtualisation. Check out my projects so far</i></p>
 
 
  ### 📫 Connect with me:
