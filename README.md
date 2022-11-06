@@ -1,13 +1,8 @@
-<h1 align="center"> ✨ Welcome to my GitHub ✨ </h1>
+<p><i>Hey, I'm <b>Rumaanah</b> 👋 - An analytical and forward thinking, data engineer with an understanding of database fundamentals, SDLC, proficient in Python, SQL and OS level virtualisation. </i></p>
 
 
-<p><i>Hey, I'm <b>Rumaanah</b> 👋 - An analytical and forward thinking, data engineer with an understanding of database fundamentals, the Software Development Life Cycle, proficient in practical applications such as Python, SQL and OS level virtualisation. Check out my projects so far! </i></p>
-
-
- ### 📫 Connect with me:
 > LinkedIn: [Rumaanah Ellahi](https://www.linkedin.com/in/rumaanah/)  
-> 
->  Email: <rumaanahellahi@gmail.com>
+
 <br>
 
 <!--- 
